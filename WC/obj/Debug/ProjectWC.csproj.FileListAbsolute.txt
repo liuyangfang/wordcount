@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\bin\Debug\ProjectWC.exe.config
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\obj\Debug\ProjectWC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\bin\Debug\ProjectWC.exe
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\bin\Debug\ProjectWC.pdb
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\obj\Debug\ProjectWC.exe
+C:\Users\Administrator\Desktop\软件工程\ProjectWC\ProjectWC\obj\Debug\ProjectWC.pdb
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\bin\Debug\ProjectWC.exe.config
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\obj\Debug\ProjectWC.exe
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\obj\Debug\ProjectWC.pdb
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\obj\Debug\ProjectWC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\bin\Debug\ProjectWC.exe
+C:\Users\Administrator\Desktop\软件工程\WC\ProjectWC\ProjectWC\bin\Debug\ProjectWC.pdb
